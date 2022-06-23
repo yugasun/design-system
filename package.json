@@ -1,0 +1,24 @@
+{
+  "name": "design-system",
+  "description": "Design System for Yuga Project",
+  "volta": {
+    "node": "18.1.0"
+  },
+  "scripts": {
+    "bootstrap": "pnpm i"
+  },
+  "author": "yugasun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugasun/design-system.git"
+  },
+  "keywords": [
+    "design-system",
+    "design-tokens"
+  ],
+  "bugs": {
+    "url": "https://github.com/yugasun/design-system/issues"
+  },
+  "homepage": "https://github.com/yugasun/design-system#readme"
+}

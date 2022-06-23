@@ -1,0 +1,5 @@
+src/*  -linguist-detectable
+*.test.js -linguist-detectable
+packages/* linguist-detectable
+*.tsx linguist-language=TypeScript
+*.jsx linguist-language=JavaScript
